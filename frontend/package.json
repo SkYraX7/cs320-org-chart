@@ -44,6 +44,6 @@
   "dependencies": {
     "d3-save-svg": "0.0.2",
     "jspdf": "^1.5.3",
-    "webpack": "^5.9.0"
+    "webpack": "^5.91.0"
   }
 }
